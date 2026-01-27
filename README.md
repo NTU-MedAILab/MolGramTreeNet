@@ -35,12 +35,12 @@ We utilize the following datasets:
 **2. QM9**
 - **Description:** Quantum chemistry benchmark for molecular properties.
 - **Source:** [QM9 Database](https://quantum-machine.org/datasets/)
-- **Location in Repo:** `data/qm9/`
+- **Location in Repo:** `data/QM9/`
 
 **3. HBV (CC50)**
 - **Description:** A curated hepatotoxicity dataset derived from ChEMBL (bioactive compounds with CC50 values).
 - **Source:** [ChEMBL Database](https://www.ebi.ac.uk/chembl/)
-- **Location in Repo:** `data/cc50/`
+- **Location in Repo:** `data/CC50/`
 
 > **Note:** You can directly use the standardized `.csv` or `.pt` files provided in the `data/` folder to reproduce our results without re-downloading from the original sources.
 
