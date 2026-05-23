@@ -1,5 +1,7 @@
 # MolGramTreeNet
 
+**This project has been published in the IScience journal.**
+
 ## A Multimodal Molecular Property Prediction Model via Grammar Tree-Constrained Molecular Representation
 
 MolGramTreeNet is a novel deep learning framework that integrates 1D grammar tree structures (via Context-Free Grammar) and 2D molecular graphs to explicitly encode chemical rules and hierarchical semantics for accurate molecular property prediction.
